@@ -1,0 +1,138 @@
+/* Style Developed by GumSlone (c) 2009 */
+
+body {
+margin: 3px auto;
+max-width: 480px;
+font-family : Verdana, arial;
+font-weight : normal;
+font-size : small;
+color : #333333;
+background-color : #ffffff;
+}
+a:active, a:visited, a:link {
+color : #294a9c;
+text-decoration : none;
+}
+a:hover {
+color : #4e72a2;
+text-decoration : underline;
+}
+.center {
+padding : 3px;
+text-align : center;
+border : 0;
+}
+.titleMain {
+color : #ffffff;
+font-weight : bold;
+border-right-color : #6699ff;
+border-width : 5px;
+border-right-style : solid;
+margin-left : 2px;
+text-align : center;
+background : #5f83d9 url(../images/corner_left_top_dark_blue.gif) no-repeat left top;
+}
+.titleSubRightTop {
+padding : 3px;
+background : url(../images/corner_right_top_dark_blue.gif) no-repeat right top;
+}
+.titleSubRightBottom {
+padding : 3px;
+background : url(../images/corner_right_bottom_dark_blue.gif) no-repeat right bottom;
+}
+.titleSubLeftTop {
+padding : 3px;
+background : url(../images/corner_left_top_dark_blue.gif) no-repeat left top;
+}
+.titleSubLeftBottom {
+padding : 3px;
+background : url(../images/corner_left_bottom_dark_blue.gif) no-repeat left bottom;
+}
+.SiteTitleMain {
+color : #ffffff;
+text-align : center;
+font-weight : bold;
+margin-left : 2px;
+background : #dce7fd url(../images/corner_left_top_light_blue.gif) no-repeat left top;
+}
+.SiteTitleSubRightTop {
+padding : 3px;
+background : url(../images/corner_right_top_light_blue.gif) no-repeat right top;
+}
+.SiteTitleSubRightBottom {
+padding : 3px;
+background : url(../images/corner_right_bottom_light_blue.gif) no-repeat right bottom;
+}
+.SiteTitleSubLeftTop {
+padding : 3px;
+background : url(../images/corner_left_top_light_blue.gif) no-repeat left top;
+}
+.SiteTitleSubLeftBottom {
+padding : 3px;
+background : url(../images/corner_left_bottom_light_blue.gif) no-repeat left bottom;
+}
+.norm {
+padding-bottom : 2px;
+padding-top : 2px;
+background : #ffffff;
+}
+.darker {
+padding-bottom : 2px;
+padding-top : 2px;
+background : #ebebeb;
+}
+.LeftBlue {
+border-left : 4px solid #2962ae;
+vertical-align: middle;
+}
+.LeftOrange {
+border-left : 4px solid #ff9900;
+vertical-align: middle;
+}
+.downban {
+padding : 3px;
+background-color : #eff3f6;
+}
+.copyright {
+padding : 3px;
+background-color : #73a2c6;
+}
+.footer {
+text-align : center;
+padding : 1px;
+background-color : #eff3f6;
+}
+.pagination {
+text-align : right;
+}
+
+hr {
+margin-top : 2px;
+margin-bottom : 2px;
+padding : 0;
+background-color : #c2cbdf;
+color : #bcc5d9;
+border : none;
+height : 1px;
+}
+form {
+margin : 0;
+}
+input, textarea, select {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size : 10px;
+}
+img {
+	border: none;
+	color: red;
+	margin: 0px;
+	padding: 0px;
+	}
+img.icon {
+	vertical-align: middle;
+}
+img.logo {
+	font-size: large;
+	font-weight: bold;
+	vertical-align: middle;
+}

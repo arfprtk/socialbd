@@ -1,0 +1,49 @@
+/* CSS Document */
+body {
+background: #FF00FF url(love/logo.jpg) fixed;
+color: #990000;
+}
+input {
+color: #990000;
+background: #FFCCFF;
+font-size: 8pt;
+border: #FF0000 thin solid;
+}
+p {padding:0px;margin: 0px 0px 0px 0px;}
+input,select {
+color: #990000;
+background: #FFCCFF;
+border: #00FF00 thin solid;
+}
+a, a:active  {
+color: #FF0000;
+}
+a:visited {
+color: #FF0000;
+}
+a:hover {
+color: #FFCCFF;
+background-color: #990000;
+}
+head {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size: small;
+}
+img { border: 0; }
+div.ahblock2 {
+margin: 2px 0px 2px 0px;
+padding: 0px 0px 0px 0px;
+color: #00FF00;
+background-color: #9966CC;
+border: 1px dotted #00FF00;
+
+}
+a.nav, a.nav:active  {color: #990000;}
+a.nav:visited  {color: #FFFFFF;}
+a.nav:hover  {color: #FFFFFF;}
+hr {
+background-color: #CC0000;
+color: #FF0000;
+border: none;
+height: 1px;
+}

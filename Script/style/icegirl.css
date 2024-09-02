@@ -1,0 +1,13 @@
+body {background-color:white; background-image: url('icegirl.jpg'); font-family: Comic Sans MS; color:red}
+h1 {background-color:red; color:white}
+h2 {background-color:blue; color:white}
+h3 {background-color:#2f4f4f; color:white}
+h4 {background-color:red; color:white}
+h5 {background-color:white; color:black}
+h6 {background-color:red; color:white}
+a:link {color:black}
+a:visited {color:black}
+a:hover {color:blue}
+a:hover {font-size: 150%}
+input{background-color:#0099FF; color:black; border: 2px ridge white}
+select{background-color:#0099FF; color:black; border: 2px ridge #C0C0C0}

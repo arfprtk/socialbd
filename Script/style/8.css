@@ -1,0 +1,19 @@
+/* Layout from friendster-layouts.me */
+body{
+ max-width: 600px; border: 2px ridge #66FF33;
+ margin: 7px auto;
+ background-image:url(http://friendster-layouts.me/img/1166.1.gif);
+ background-attachment:fixed;
+ background-position:bottom center;
+ background-repeat:no-repeat;
+ background-color:#000;
+ color: #33FF66; font-family: lucida bright; text-align: center; font-weight: bolder;
+}
+
+a:link { text-decoration: underline; color: #0066FF;}
+
+a:visited { text-decoration: underline; color : orange;}
+
+.top {border-top:2px double red; border-bottom:2px double red; padding: 3px; padding: 6px; vertical-align: middle; background-color: lightblue; text-align: center; font-family: comic sans ms; font-size: 13px; color: orange; text-decoration: blink; text-weight: bolder;}
+
+.footer { border-top:2px double red; border-bottom:2px double red; padding: 2px; background-color: lightblue; text-align: center; font-family: comic sans ms; font-size: 13px; color: orange; text-decoration: blink; text-weight: bolder;}

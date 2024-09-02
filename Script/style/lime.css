@@ -1,0 +1,48 @@
+/* CSS Document */
+body {
+background: #00FF00 url(lime/logo.png) fixed;
+color: #000000;
+}
+input {
+color: #006600;
+background: #99FFCC;
+font-size: 8pt;
+border: #FFFFFF thin solid;
+}
+p {padding:0px;margin: 0px 0px 0px 0px;}
+input,select {
+color: #000000;
+background: #99FFCC;
+border: #00FF00 thin solid;
+}
+a, a:active  {
+color: #006600;
+}
+a:visited {
+color: #003300;
+}
+a:hover {
+color: #003300;
+background-color: #00FF00;
+}
+head {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size: small;
+}
+img { border: 0; }
+div.ahblock2 {
+margin: 2px 0px 2px 0px;
+padding: 0px 0px 0px 0px;
+color: #003300;
+background-color: #99FFCC;
+
+}
+a.nav, a.nav:active  {color: #990000;}
+a.nav:visited  {color: #FFFFFF;}
+a.nav:hover  {color: #FFFFFF;}
+hr {
+background-color: #006600;
+color: #009900;
+border: none;
+height: 1px;
+}

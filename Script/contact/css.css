@@ -1,0 +1,123 @@
+body {
+background: #ECE9E6; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #ECE9E6 , #FFFFFF); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #ECE9E6 , #FFFFFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+
+font: normal normal 400 16px/normal Arial;
+justify-content: flex-start;
+order: 0;
+resize: none;
+}
+
+p {padding:0px;}
+
+h5 { 
+background-color: #3a5795;
+color:#FFFFFF;
+
+border-top-color: #9fcded;
+border-top-style: solid;
+border-top-width: 1px;
+font-size: 100%;
+font-weight: 700;
+margin-bottom: 0.3em;
+margin-top: -0.65em;
+padding-bottom: 0.1em;
+padding-left: 0.6em;
+padding-right: 0.6em;
+padding-top: 0.1em;
+text-align: center;
+}
+h2 { 
+background-color: #3a5795;
+color:#FFFFFF;
+
+border-top-color: #9fcded;
+border-top-style: solid;
+border-top-width: 1px;
+font-size: 100%;
+font-weight: 700;
+margin-bottom: 0.3em;
+margin-top: -0.65em;
+padding-bottom: 0.1em;
+padding-left: 0.6em;
+padding-right: 0.6em;
+padding-top: 0.1em;
+text-align: center;
+}
+
+h9 { 
+background-color: #1d4088;
+border-top-color: #1e3c84;
+border-top-style: solid;
+border-top-width: 1px;
+font-size: 100%;
+font-weight: 700;
+margin-bottom: 0.3em;
+
+margin-top: -0.65em;
+padding-bottom: 0.1em;
+padding-left: 0.6em;
+padding-right: 0.6em;
+padding-top: 0.1em;
+text-align: center;
+}
+
+h3 { 
+background-color: #fffbe2;
+border-top-color: #e2c822;
+border-top-style: solid;
+border-top-width: 1px;
+font-size: 100%;
+font-weight: 700;
+margin-bottom: 0.3em;
+
+margin-top: -0.65em;
+padding-bottom: 0.1em;
+padding-left: 0.6em;
+padding-right: 0.6em;
+padding-top: 0.1em;
+text-align: center;
+}
+
+h4 { 
+background-color: #F5F5E9;
+border-top-color: #ffff99;
+border-top-style: solid;
+border-top-width: 1px;
+font-size: 100%;
+font-weight: 700;
+margin-bottom: 0.3em;
+
+margin-top: -0.65em;
+padding-bottom: 0.1em;
+padding-left: 0.6em;
+padding-right: 0.6em;
+padding-top: 0.1em;
+
+}
+
+a:link {color:#0000FF}
+a:visited {color:#3755DB}
+a:hover {color:#1d4088; font-weight:bold; text-decoration:underline;  font-size: small;}
+img {border: 0;}
+hr {border: none 0; 
+	margin: 2px 0px 2px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+border-top: 1px dotted #000;/*the border*/
+
+height: 0px;}
+/*div.mblock1 {margin: 2px 0px 2px 0px; padding: 0px 0px 0px 0px; background-color: #FFFFFF; border: 1px dotted #1d4088; text-align: left;}*/
+
+/*div.mblock1 {margin: 8px 0px 2px 0px; padding: 0px 0px 0px 0px; background-color: #ffffff; text-align: left;border-radius: 0px 0px 0px 0px;}*/
+div.mblock1 {margin: 8px 0px 2px 0px; padding: 0px 0px 0px 0px; background-color: #ffffff; border: 1px solid #6699cc; text-align: left;border-radius: 0px 0px 0px 0px;}
+
+
+
+
+
+
+div.mblock2 {margin: 2px 0px 2px 0px; padding: 0px 0px 0px 0px; background-color: #FFFFFF; border: 1px dotted #1d4088; text-align: left;}
+.pphoto {clear:both; float:left; padding-right: 4px; max-width: 58px; max-height: 60px; text-align: center;}

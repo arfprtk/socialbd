@@ -1,0 +1,56 @@
+/* CSS by vampire8 */
+
+/* visit vampire8 website @:
+
+logicalerror@gmail.com
+
+friendster acc:
+8logicalerror@gmail.com
+
+twitter acc:
+www.twitter.com/logical_error
+
+facebook acc:
+leafar31@gmail.com
+
+*/
+
+
+
+p { text-align: center; color:#00FF66;}
+
+body { max-width:350px; margin: 0px auto; border: 2px ridge #00FFCC; border: 1px dotted #00FFCC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; text-align: center; background: #000000; color: #00FF99; background-image:url(http://wapwizards.net/gallery/files/Cross.jpeg); background-repeat: repeat; background-attachment: fixed; }
+
+
+a {color: #0033FF ; text-decoration: none;}
+
+
+a:link { text-decoration: none; color : #00FFFF;}
+
+
+a:hover { text-decoration: none; color : #00FFFF; position: relative; top: 5px; left: 5px; }
+
+a:visited { text-decoration: none; color : #0033FF}
+
+
+.top {border:1px ridge #006600; padding: 2px; padding: 2px; vertical-align: middle; background-color: #000000;  text-align: center; text-weight:bold; font-family: Georgia; font-size: 13px; color: #006600; }
+
+
+.footer { border:1px ridge #006600; padding: 2px; background-color: #00000; text-align: center; text-weight: bold; font-family: Georgia; font-size: 13px; color: #006600; }
+
+
+.nav { padding: 0px; text-align: center; border: 3px ridge #006699; border-collapse:collapse;
+
+background: url(http://wapwizards.net/gallery/files/Cross.jpeg); color: #006600;}
+
+
+input,select,textarea{ border: 2px solid #00FF0 ; background-color: #00FF33; color: #009933;}
+
+
+/*
+
+
+hacking is what i aim for!!!
+
+
+*/

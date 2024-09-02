@@ -1,0 +1,28 @@
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+
+<Files images>
+deny from all
+</Files>
+
+<Files *.php>
+deny from all
+</Files>
+
+<Files *.php.*>
+deny from all
+</Files>
+
+<Files *.php.php.*>
+deny from all
+</Files>

@@ -1,0 +1,71 @@
+/* CSS Document */
+body {
+background: #000000 url(matrix/logo.jpg) fixed;
+color: #FFFFFF;
+}
+input {
+color: #00FF00;
+background: #000000;
+font-size: 8pt;
+border: #006633 medium solid;
+}
+p {padding:0px;margin: 0px 0px 0px 0px;}
+input,select {
+color: #009933;
+background:#000000;
+border: #00FF00 medium solid;
+}
+a, a:active  {
+color: #CCCCCC;
+}
+a:visited {
+color: #CCCCCC;
+}
+a:hover {
+color: #000000;
+background-color: #00FF00;
+}
+head {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size: small;
+}
+img { border: 0; }
+div.ahblock2 {
+margin: 2px 0px 2px 0px;
+padding: 0px 0px 0px 0px;
+color: #00FF00;
+background-color: #000000;
+border: 1px dotted #00FF00;
+
+}
+a.nav, a.nav:active  {color: #FFFFFF;}
+a.nav:visited  {color: #FFFFFF;}
+a.nav:hover  {color: #FFFFFF;}
+hr {
+background-color: #00FF00;
+color: #00FF00;
+border: none;
+height: 1px;
+}
+h2 { 
+background-color: #00ff00;
+color:#FFFFFF;
+border-top-color: #00ff00;
+border-top-style: solid;
+border-top-width: 1px;
+font-size: 100%;
+font-weight: 700;
+margin-bottom: 0.3em;
+margin-top: -0.65em;
+padding-bottom: 0.1em;
+padding-left: 0.6em;
+padding-right: 0.6em;
+padding-top: 0.1em;
+}
+
+
+
+
+
+
+

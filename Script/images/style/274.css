@@ -1,0 +1,47 @@
+/* {--friendster-layouts.com css code start--} */
+
+/* FRIENDSTER-LAYOUTS.COM */
+/* Audition Lady layout by sAnTiNi */
+
+
+/* PROFILE BACKGROUND */
+body { background-image:url(http://i200.photobucket.com/albums/aa73/fs-layouts/friendster-layouts.com/2009/02/ad-lady/ad-lady.jpg); background-attachment:fixed; background-position:center; background-repeat:no-repeat; background-color:#ff99ff; }
+
+/* GLOBAL FONTS */
+.usercontent { font-family:Georgia, Times New Roman, Times, serif; color:#660033; }
+
+/* GLOBAL LINKS */
+.usercontent a, .usercontent a:link, .usercontent a:visited, .usercontent a:active { text-decoration:none; color:#cc0033; }
+.data a, a.more, .commonbox .viewall { font-family:Georgia, Times New Roman, Times, serif; color:#cc0033; }
+.usercontent a:hover { text-decoration:overline; color:#000000; }
+
+/* GLOBAL HEADERS */
+.commonbox h1, .commonbox h2 { font-family:Georgia, Times New Roman, Times, serif; color:#ff99ff; background-color:#990066; }
+
+/* GLOBAL BOXES */
+.commonbox { border-width:6px; border-color:#cc0066; border-style:double; background-color:transparent; }
+
+/* TESTIMONIALS EVEN ROW */
+.commonbox .evenrow { background-color:transparent; }
+
+/* PRIMARY PHOTO BORDER */
+.controlpanel .imgblock200 { border-color:#cc0033; }
+
+/* DATA / LABELS */
+.data, .controlpanel .q { color:#000000; }
+
+/* BUTTONS */
+#controlPanelButtons a, #controlPanelButtons a:link, #controlPanelButtons a:visited { font-family:Georgia, Times New Roman, Times, serif; color:#000000; border-color:#990033; border-style:dashed; background-color:transparent; }
+#controlPanelButtons a:hover { color:#ff66cc; border-color:#cc0033; background-color:#660000; }
+
+/* PHOTO BLOCKS */
+.commonbox .imgblock75, .ir { border-width:5px; border-color:#cc0066; background-color:#cc3333; }
+
+/* FRIENDS NAME BG */
+.commonbox .dr { background-color:transparent; }
+
+
+/* CURSOR CSS GENERATOR - FRIENDSTER-TWEAKERS.COM */
+body { cursor:url("http://www.myspacecursor.net/girly/2.ani"),default;}
+
+/* {--friendster-layouts.com css code end--} */

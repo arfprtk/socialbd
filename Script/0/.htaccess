@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^0\.socialbd\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.0\.socialbd\.net$
+RewriteRule ^/?$ "http\:\/\/http\-socialbd\-net\.0\.freebasics\.com\/index\.php" [R=301,L]
+

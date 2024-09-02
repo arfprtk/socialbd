@@ -1,0 +1,49 @@
+body {
+background: #990000;
+color: #FF9900;
+}
+input {
+color: #990000;
+background-color: #FF9966;
+font-size: 8pt;
+border-bottom: #000000 1px solid;
+border-left: #000000 1px solid;
+border-right: #000000 1px solid;
+border-top: #000000 1px solid
+}
+p {padding:0px;margin: 0px 0px 0px 0px;}
+input,select {
+color: #990000;
+}
+a, a:active  {
+color: #FF9966;
+}
+a:visited {
+color: #FF9966;
+}
+a:hover {
+color: #990000;
+background-color: #CCCC66;
+}
+head {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size: small;
+}
+img { border: 0; }
+div.ahblock2 {
+margin: 2px 0px 2px 0px;
+padding: 0px 0px 0px 0px;
+color: #CCCCCC;
+background-color: #990066;
+border: 1px solid #333333;
+
+}
+a.nav, a.nav:active  {color: #FFCC99;}
+a.nav:visited  {color: #FFCC99;}
+a.nav:hover  {color: #FFCC99;}
+hr {
+background-color: #FFFF00;
+color: #FFFF00;
+border: none;
+height: 1px;
+}

@@ -1,0 +1,49 @@
+/* CSS Document */
+body {
+background: #000000 url(stalker/logo.gif) no-repeat center fixed;
+color: #00CC33;
+}
+input {
+color: #009966;
+background:#333333;
+font-size: 8pt;
+border:#FFFFFF medium solid;
+}
+p {padding:0px;margin: 0px 0px 0px 0px;}
+input,select {
+color: #009933;
+background:#000000;
+border: #00FF00 medium solid;
+}
+a, a:active  {
+color: #FFFFFF;
+}
+a:visited {
+color: #FFFFFF;
+}
+a:hover {
+color: #003300;
+background-color: #00FF00;
+}
+head {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size: small;
+}
+img { border: 0; }
+div.ahblock2 {
+margin: 2px 0px 2px 0px;
+padding: 0px 0px 0px 0px;
+color: #CCCCCC;
+background-color: #003366;
+border: 1px solid #00FF00;
+
+}
+a.nav, a.nav:active  {color: #FFFFFF;}
+a.nav:visited  {color: #FFFFFF;}
+a.nav:hover  {color: #FFFFFF;}
+hr {
+background-color: #FFFF00;
+color: #FFFF00;
+border: none;
+height: 1px;
+}

@@ -1,0 +1,49 @@
+/* CSS Document */
+body {
+background: #CC9900 url(strike/logo.jpg) fixed;
+color: #CC6600;
+}
+input {
+color: #CC6600;
+background: #FFCC99;
+font-size: 8pt;
+border: #000000 thin solid;
+}
+p {padding:0px;margin: 0px 0px 0px 0px;}
+input,select {
+color: #CC6600;
+background: #FFCC99;
+border: #00FF00 thin solid;
+}
+a, a:active  {
+color: #000000;
+}
+a:visited {
+color: #000000;
+}
+a:hover {
+color: #000000;
+background-color: #FF9966;
+}
+head {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size: small;
+}
+img { border: 0; }
+div.ahblock2 {
+margin: 2px 0px 2px 0px;
+padding: 0px 0px 0px 0px;
+color: #FFFFFF;
+background-color: #000000;
+border: 1px dotted #000000;
+
+}
+a.nav, a.nav:active  {color: #990000;}
+a.nav:visited  {color: #FFFFFF;}
+a.nav:hover  {color: #FFFFFF;}
+hr {
+background-color: #996600;
+color: #996600;
+border: none;
+height: 1px;
+}

@@ -1,0 +1,30 @@
+/* CSS by vampire8 */
+
+p { text-align: center; color:#336699;}
+
+body { max-width:350px; margin: 0px auto; border: 2px outset #0099FF; border: 3px ridge #0099CC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; text-align: center; background: #000007; color: #336699; background-image:url(http://wapwizards.net/gallery/files/Hacker.png); background-repeat: repeat; background-attachment: fixed; }
+
+
+a {color: #33CCFF ; text-decoration: none;}
+
+
+a:link { text-decoration: none; color : #6699CC;}
+
+
+a:hover { text-decoration: none; color : #6699FF; position: relative; top: 1px; left: 1px; }
+
+a:visited { text-decoration: none; color : #6699FF}
+
+
+.top {border:2px outset #0033CC; padding: 3px; padding: 3px; vertical-align: middle; background-color: #0033CC;  text-align: center; text-weight:bold; font-family: Georgia; font-size: 13px; color: #6633FF; }
+
+
+.footer { border:2px outset #0033CC; padding: 2px; background-color: #0033CC; text-align: center; text-weight: bold; font-family: Georgia; font-size: 13px; color: #6633FF; }
+
+
+.nav { padding: 0px; text-align: center; border: 3px ridge #006699; border-collapse:collapse;
+
+background: url(http://wapwizards.net/gallery/files/Hacker.png); color: #0066FF;}
+
+
+input,select,textarea{ border: 2px solid #0099CC; background-color: #00FFCC; color: #0099F5;}

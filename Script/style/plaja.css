@@ -1,0 +1,13 @@
+body {background-color:orange; background-image: url('beach.jpg'); font-family: Comic Sans MS; color:black}
+h1 {background-color:red; color:white}
+h2 {background-color:blue; color:white}
+h3 {background-color:#2f4f4f; color:white}
+h4 {background-color:red; color:white}
+h5 {background-color:white; color:black}
+h6 {background-color:red; color:white}
+a:link {color:white}
+a:visited {color:white}
+a:hover {color:black}
+a:hover {font-size: 150%}
+input{background-color:orange; color:black; border: 2px ridge white}
+select{background-color:orange; color:black; border: 2px ridge #C0C0C0}

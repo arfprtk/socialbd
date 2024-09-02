@@ -1,0 +1,49 @@
+/* CSS Document */
+body {
+background: #000000 url(wanted/logo.gif) no-repeat center fixed;
+color: #990000;
+}
+input {
+color: #FFFFFF;
+background:#333333;
+font-size: 8pt;
+border:#FFFFFF medium solid;
+}
+p {padding:0px;margin: 0px 0px 0px 0px;}
+input,select {
+color: #FFFFFF;
+background:#000000;
+border:#FFFFFF medium solid;
+}
+a, a:active  {
+color: #990000;
+}
+a:visited {
+color: #990000;
+}
+a:hover {
+color: #000000;
+background-color: #FF0000;
+}
+head {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size: small;
+}
+img { border: 0; }
+div.ahblock2 {
+margin: 2px 0px 2px 0px;
+padding: 0px 0px 0px 0px;
+color: #CCCCCC;
+background-color: #000000;
+border: 1px solid #FF6600;
+
+}
+a.nav, a.nav:active  {color: #FFFFFF;}
+a.nav:visited  {color: #FFFFFF;}
+a.nav:hover  {color: #FFFFFF;}
+hr {
+background-color: #FFFF00;
+color: #FFFF00;
+border: none;
+height: 1px;
+}

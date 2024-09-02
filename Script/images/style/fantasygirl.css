@@ -1,0 +1,12 @@
+body {background-color:#0099FF; background-image: url('fantasygirl.jpg'); font-family: Comic Sans MS; color:black}
+h2 {background-color:blue; color:white}
+h3 {background-color:#2f4f4f; color:white}
+h5 {background-color:white; color:black}
+h6 {background-color:red; color:white}
+.chen {background-color:red; color:white; border:2px; font-size: 80%}
+a:link {color:white}
+a:visited {color:white}
+a:hover {color:red}
+a:hover {font-size: 150%}
+input{background-color:#0099FF; color:black; border: 2px ridge white}
+select{background-color:#0099FF; color:black; border: 2px ridge #C0C0C0}

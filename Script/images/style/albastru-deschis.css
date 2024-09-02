@@ -1,0 +1,19 @@
+body {background-color:#6B9CDF; font-family: Verdana, Arial, Helvetica, sans-serif; color:black}
+
+.header {background-color:white; color:#990000; border:2px; font-size: 70%}
+.final {background-color:#990000; color:white; border:2px; font-size: 90%}
+
+.chen0 {height: 30px; background-color:white; color:#990000; border-top: 1px solid white; border-bottom: 1px solid white; padding: 1px; margin: 0px;}
+.chen1 {height: 20px; background-color:#990000; color:white; border-top: 1px solid white; border-bottom: 1px solid white; padding: 1px; margin: 0px;}
+.chen2 {height: 40px; background-color:#990000; color:white; border-top: 1px solid white; border-bottom: 1px solid white; padding: 1px; margin: 0px;}
+.chen3 {height: 70px; background-color:#990000; color:white; border-top: 1px solid white; border-bottom: 1px solid white; padding: 1px; margin: 0px;}
+.chen4 {height: 70px; background-color:#990000; color:white; border-top: 1px solid white; border-bottom: 1px solid white; padding: 1px; margin: 0px;}
+
+
+
+a:link {color:white}
+a:visited {color:white}
+a:hover {color:black}
+a:hover {font-size: 120%}
+input{background-color:red; color:white; border: 2px ridge white}
+select{background-color:red; color:white; border: 2px ridge #C0C0C0}

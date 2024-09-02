@@ -1,0 +1,9 @@
+body { max-width:1000px; margin: 7px auto; border: 6px ridge red; font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14px;text-align: left;background: black;}
+a {color: tomato; text-decoration: none;}
+a:link, a:visited { text-decoration: none; color : tomato}
+a:hover { text-decoration: none; color : tomato; position: relative; top: 1px; left: 1px; }
+.top {border:4px ridge tomato; padding: 3px; padding: 6px; vertical-align: middle; background-color: tomato;  text-align: center; font-family: Georgia; font-size: 14px; color: silver; }
+.footer { border:4px ridge orange; padding: 2px; background-color: orange; text-align: center; font-family: Georgia; font-size: 14px; color: silver; }
+.nav { padding: 0px; text-align: center; border: 4px ridge red; border-collapse:collapse;
+background: url(); color: black;}
+input,select,textarea{ border: 3px outset red; background-color: black; color: orange;}

@@ -1,0 +1,96 @@
+body {
+background-color: black;
+background-image:url(http://deathnotewallpapers.com/wallpapers/the-death-note-wallpaper-1024-768.jpg );
+background-attachment: fixed;
+background-repeat: no-repeat;
+font-family: Tahoma; 
+font-size: 20px; 
+color: silver;    
+text-align: center;
+text-transform:lowercase;
+padding:0px;
+max-width : 500px;
+margin-left:auto;
+margin-right:auto; 
+}
+
+img {
+border: 0px none;
+}
+
+hr {
+background-color: transparent;
+color: transparent;
+border: none;
+height: 1px;
+}
+a {
+color: white;
+}
+
+a:active {
+color: #0badf0;
+}
+
+input, select, textarea
+{
+color: pink;
+background-color: transparent;
+border: 1px dashed silver;
+}
+
+input[type="submit"] {
+color: pink;
+text-align: center;
+background-color: tranparent;
+border: 1px outset black;
+}
+
+.nav {
+margin-top: 5px;
+margin-bottom: 2px;
+padding: 12px;
+background-color: transparent;
+text-align: center;
+font-size: 20px;
+color: gray;
+vertical-align: middle;
+}
+
+.center {
+text-align: center;
+border: solid 1px transparent;
+}
+
+.top {
+font-size: 20px;
+color: gray;
+padding: 12px;
+background-color: transparent;
+border: solid 1px transparent;
+text-align: center;
+}
+
+.link {
+border: solid 2px black
+padding: 12px;
+font-size: 20px;
+color: gray;
+text-align: center;
+}
+
+.footer {
+margin-top: 5px;
+margin-bottom: 2px;
+padding: 15px;
+background-color: transparent;
+border: 0px none;
+text-align: center; 
+font-size: 20px;
+color: transparent;
+}
+
+.timer {
+font-size: 20px;
+text-align: center;
+}

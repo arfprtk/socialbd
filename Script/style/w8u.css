@@ -1,0 +1,112 @@
+body {
+margin: 3px auto; 
+max-width: 480px;
+font-weight : normal;
+font-family : Verdana, arial, Helvetica, sans-serif;
+color : #000000;
+background-color : #ffffff;
+}
+a:active, a:visited, a:link {
+color : #2c75b1;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+a.white, a.white:active, a.white:link, a.white:visited {
+color : #ffffff;
+text-decoration: none;
+}
+a.red, a.red:active, a.red:link, a.red:visited {
+color : #ff0000;
+text-decoration: none;
+}
+img{
+border: none;
+}
+div {
+padding : 3px;
+margin : 0 0 0 0;
+}
+div.header {
+margin : 0 0 0 0;
+padding : 0 0 0 0;
+background-color : #ffff00;
+height : 35px;
+}
+div.logo {
+margin : 0 0 0 0;
+padding : 0 0 0 0;
+background-color : #ffff00;
+background-image : url(http://w8u.net/images/logo.png);
+background-repeat : no-repeat;
+height : 50px;
+}
+div.upban {
+background-color : #eff3f6;
+border-bottom : 1px dotted #afcddc;
+}
+div.body {
+border-bottom : 1px dotted #afcddc;
+}
+div.users {
+background-color : #f5f5f5;
+}
+div.nform {
+text-align : center;
+}
+div.pagination {
+border-top : 1px dotted #afcddc;
+text-align : center;
+}
+div.head {
+background-color : #eeeeee;
+height : 18px;
+border : 1px solid #b1cade;
+}
+div.downban {
+background-color : #eff3f6;
+border-bottom : 1px solid #ffffff;
+}
+div.descr {
+background-color : #eff3f6;
+border-bottom : 1px solid #ffffff;
+font-size : small;
+}
+div.sm {
+font-size : small;
+}
+div.voting {
+border: 1px solid #AED7FF;
+}
+div.subvoting {
+background-color : #F9FCFF;
+border-bottom: 1px solid #efefef;
+}
+div.copyright {
+color: #cccccc;
+background-color : #73a2c6;
+}
+div.footer {
+border-bottom-color: #ff8000;
+border-top-color: #cccccc;
+border-bottom-width: 3px;
+border-top-width: 1px;
+border-bottom-style: solid;
+border-top-style: solid;
+text-align : center;
+background-color : #ffea00;
+}
+hr {
+background-color : #afcddc;
+color : #000000;
+border : none;
+height : 1px;
+}
+form {
+margin : 0;
+}
+input, textarea, select {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size : 10px;
+}
